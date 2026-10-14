@@ -33,3 +33,14 @@
     justify-content: space-around;
     align-items: center;
 }
+
+.flex-wrap {
+    flex-direction: row;
+    /*Ativa quebra de linha no flexbox */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.cardMaior {
+    width: 100px;
+}
